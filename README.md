@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm Agus Setiawan,<br>💻 I'm a junior programmer<br>🏠 Located in Depok - Indonesia
+👋 I'm Agus Setiawan,<br>💻 I'm a junior programmer<br>🏠 Located in Bogor - Indonesia
 
 
 ## 🌐 Socials:
