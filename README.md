@@ -6,7 +6,7 @@ Full Stack Developer
 
 I am a full stack developer with a focus on front end technologies, proficient in HTML, CSS, and JavaScript. I also have experience in back end technologies such as Node.js and Java. I am constantly seeking to improve my skills and take on new challenges.
 
-* 🌍  I'm based in Bogor, Indonesia
+* 🌍  I'm based in Indramayu, Jawa Barat - Indonesia
 * 🖥️  See my portfolio at [aguss.id](https://aguss.id)
 * ✉️  You can contact me at [agus@idn.ac.id](mailto:agus@idn.ac.id)
 
