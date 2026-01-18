@@ -8,7 +8,7 @@ Focused on clean code, maintainability, and scalable digital products.
 
 - 🌍 Based in Indramayu, Jawa Barat – Indonesia  
 - 🖥️ Portfolio: https://aguss.id  
-- ✉️ Email: agus@idn.ac.id  
+- ✉️ Email: hey@aguss.id  
 
 ## 🛠️ Skills & Technologies
 
